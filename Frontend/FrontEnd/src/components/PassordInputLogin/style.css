@@ -1,0 +1,27 @@
+.inputPsw{
+    filter: saturate(3);
+}
+
+.inputPsw input{
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.inputPsw fieldset{
+    border-width: 2px;
+    border-color: #ff0022;
+}
+
+.css-2ehmn7-MuiInputBase-root-MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+    filter: contrast(.6);
+}
+
+.css-2ehmn7-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    filter: contrast(2);
+}
+
+.inputPsw label{
+    color: #ff0022;
+    text-shadow: 0 0 10px #ff0022;
+}

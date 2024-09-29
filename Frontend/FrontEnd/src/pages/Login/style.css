@@ -1,0 +1,16 @@
+.inputEmail input{
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    filter: saturate(3);
+}
+
+.inputEmail fieldset{
+    border-width: 2px;
+    border-color: #ff0022;
+}
+
+.inputEmail label{
+    color: #ff0022;
+    text-shadow: 0 0 10px #ff0022;
+}

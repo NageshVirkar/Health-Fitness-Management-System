@@ -1,0 +1,35 @@
+path{
+    color: #ff0022;
+}
+
+.inputSignup fieldset{
+    border-width: 2px;
+    border-color: #ff0022;
+}
+
+.inputSignup label{
+    color: #ff0022;
+    text-shadow: 0 0 10px #ff002295;
+}
+
+.inputSignup span{
+    color: #ff0022;
+    text-shadow: 0 0 10px #ff002295;
+}
+/* style.css */
+
+body {
+    background: linear-gradient(45deg, #111 0%, #333 100%);
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif; /* You can change the font-family if needed */
+    color: #eee; /* Set the default text color to white */
+}
+
+/* Add any additional styles or overrides as needed */
+.form-container {
+    /* Example: Remove or adjust the following styles if present */
+    height: 100vh;
+    overflow: auto;
+  }
+  

@@ -1,0 +1,39 @@
+.className::before{
+    content: '->';
+    transform: scale(1.2);
+    color: #999;
+}
+
+.avaliacao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 6em;
+}
+
+.avaliacao div{
+    margin-top: -1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.avaliacao div img{
+    width: 25px;
+    margin: 0 .3em;
+}
+
+h2{
+    font-size: 45px;
+    margin: 1em auto;
+    font-weight: 700;
+}
+
+.slick-dots li button{
+    filter: invert(1);
+}
+
+.slick-dots{
+    margin-top: 1em;
+}

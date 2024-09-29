@@ -1,0 +1,32 @@
+[
+    {
+      "nome": "Bike indoor",
+      "desc": "Indoor cycling class aimed at simulating climbs, descents, and changes in load and speed.",
+      "icon_img": "https://img.freepik.com/free-photo/people-doing-indoor-cycling_23-2149270249.jpg"
+    },
+    {
+      "nome": "Boxing",
+      "desc": "If you want to lose weight, tone your muscles, increase your body's endurance, and relieve stress, you need to know the benefits of boxing for your physical and mental health. The practice of boxing sculpts and tones muscle mass.",
+      "icon_img": "https://www.shutterstock.com/image-photo/male-boxer-training-punching-bag-260nw-2340058863.jpg"
+    },
+    {
+      "nome": "Dance fitness",
+      "desc": "Dynamic and playful activity, with dances and choreographies of popular and current songs.",
+      "icon_img": "https://direct.rhapsody.com/imageserver/v2/playlists/pp.281653893/albums/images/500x500.jpeg"
+    },
+    {
+      "nome": "Judo",
+      "desc": "Its aim is to develop personal defense techniques, strengthen the body, and integrate physical and mental aspects. It was recognized as an official sport in Japan in the late 19th century.",
+      "icon_img": "https://dtda4cv2md3ne.cloudfront.net/image/filename/473301/x_lg_14238266_1430809026935065_3853995340043412927_n.jpg"
+    },
+    {
+      "nome": "Karate",
+      "desc": "Karate is the perfection of character, achieved through rigorous training and discipline of the mind and body. The karateka uses hands, arms, legs, feet, indeed, any part of the body, as weapons.",
+      "icon_img": "https://d1a3v8txm37nbo.cloudfront.net/image/partners/498588/md_38d8fa03-4391-4db9-9618-ff492a1146c7_ecaeaddfcbIMGWA.jpg"
+    },
+    {
+      "nome": "Weightlifting",
+      "desc": "Weightlifting improves cardiorespiratory conditioning, reduces fat mass, aids in weight loss, decreases the risk of diabetes, and ensures more physical stamina.",
+      "icon_img": "https://blog.gsuplementos.com.br/wp-content/uploads/2019/11/312844-como-escolher-o-tipo-de-treino-ideal-para-alcancar-seus-objetivos.jpg"
+    }
+  ]

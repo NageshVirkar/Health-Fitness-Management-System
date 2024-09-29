@@ -1,0 +1,73 @@
+#outlined-search{
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #fff;
+    filter: saturate(3);
+    width: 90%;
+    max-width: 500px;
+}
+
+.inputmaterial label{
+    color: #ff0022;
+    text-shadow: 0 0 10px #ff0022;
+}
+
+.inputmaterial fieldset{
+    border-width: 2px;
+    border-color: #ff0022;
+}
+
+.css-rw1vm2-MuiInputBase-root-MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+    filter: contrast(.7);
+}
+
+.css-rw1vm2-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    filter: contrast(2);
+}
+
+.icon{
+    position: absolute;
+    height: 110%;
+    left: 10%;
+    transform: scale(10);
+}
+
+.icon path{
+    color: #ccc;
+}
+
+.selectState{
+    filter: saturate(3);
+}
+
+.selectState fieldset{
+    border-color: red;
+    border-width: 2px;
+}
+
+.selectState div{
+    width: 150px;
+    margin-right: 1.5em;
+    color: #eee;
+}
+
+.selectState label{
+    color: #ff0022;
+    text-shadow: 0 0 10px #ff0022;
+}
+
+#item{
+    color: #ff0022;
+    text-shadow: 0 0 10px #ff002290;
+    font-weight: 600;
+    letter-spacing: 1px;;
+} 
+
+.css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    filter: contrast(2);
+}
+
+.css-rfyus5-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root:hover .MuiOutlinedInput-notchedOutline {
+    filter: contrast(0);
+}
